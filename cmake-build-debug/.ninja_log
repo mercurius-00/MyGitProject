@@ -1,0 +1,9 @@
+# ninja log v5
+1	202	6944220121854991	CMakeFiles/draft.dir/main.cpp.obj	cff2b4632571d03c
+202	255	6944220122374785	draft.exe	ad5ebbfd342171c9
+1	202	6944220673014384	CMakeFiles/draft.dir/main.cpp.obj	cff2b4632571d03c
+202	252	6944220673504383	draft.exe	ad5ebbfd342171c9
+2	207	6944221082847424	CMakeFiles/draft.dir/main.cpp.obj	cff2b4632571d03c
+207	258	6944221083337419	draft.exe	ad5ebbfd342171c9
+2	205	6944221314256951	CMakeFiles/draft.dir/main.cpp.obj	cff2b4632571d03c
+205	258	6944221314766949	draft.exe	ad5ebbfd342171c9
