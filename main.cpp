@@ -28,7 +28,7 @@ public:
 };
 
 int main() {
-    string inputString = "hello world 5 x 5";
+    string inputString = "hello world 5 x 6";
     Solution a;
 //    a.areNumbersAscending(inputString);
     cout<<a.areNumbersAscending(inputString)<<endl;
